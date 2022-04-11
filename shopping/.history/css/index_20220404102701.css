@@ -1,0 +1,17 @@
+main {
+    width: 980px;
+    height: 455px;
+    margin-left: 220px;
+    background-color: pink;
+}
+.focus {
+    float: left;
+    width: 721px;
+    height: 455px;
+    background-color: purple;
+}
+.newsflash {
+    width: 250px;
+    height: 455px;
+    background-color: #fff;
+}
